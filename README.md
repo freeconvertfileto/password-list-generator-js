@@ -2,7 +2,7 @@
 
 Generate bulk lists of cryptographically random passwords with configurable length range, character sets, and three output formats, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/password-list-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/password-list-generator-online
 
 ## How It Works
 
